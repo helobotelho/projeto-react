@@ -19,15 +19,15 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## Estrutura do projeto
 projeto-react/  
-  ├── public/  
-  │   ├── index.html  
-  │   └── ...  
-  ├── src/  
-  │   ├── App.css  
-  │   ├── App.js  
-  │   ├── index.js  
-  │   └── styles.css  
-  ├── .gitignore  
-  ├── README.md  
-  ├── jsconfig.json  
-  └── package.json  
+├── public/  
+│   ├── index.html  
+│   └── ...  
+├── src/  
+│   ├── App.css  
+│   ├── App.js  
+│   ├── index.js  
+│   └── styles.css  
+├── .gitignore  
+├── README.md  
+├── jsconfig.json  
+└── package.json  
